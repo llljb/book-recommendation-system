@@ -1,0 +1,9 @@
+# Python 3.10 recommended; TensorFlow/Keras 2.x matches the historical code.
+streamlit>=1.20,<1.37
+tensorflow>=2.10,<2.16
+numpy>=1.23,<2
+pandas>=1.5,<2.3
+scikit-learn>=1.2,<1.6
+matplotlib>=3.6,<3.10
+tqdm>=4.64,<5
+h5py>=3.7,<4
